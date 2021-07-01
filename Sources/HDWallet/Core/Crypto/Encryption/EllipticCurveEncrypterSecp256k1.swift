@@ -6,8 +6,10 @@
 //  Copyright © 2018 Essentia. All rights reserved.
 //
 
-import secp256k1
+import secp256k1_implementation
 import CryptoSwift
+import secp256k1_bindings
+import Foundation
 
 public class EllipticCurveEncrypterSecp256k1 {
     // holds internal state of the c library
