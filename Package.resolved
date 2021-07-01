@@ -12,11 +12,11 @@
       },
       {
         "package": "secp256k1",
-        "repositoryURL": "https://github.com/GigaBitcoin/secp256k1.swift",
+        "repositoryURL": "https://github.com/Boilertalk/secp256k1.swift",
         "state": {
           "branch": null,
-          "revision": "cdf449c7bc176287dc1877902ee98ed6ea46ab7f",
-          "version": "0.3.0"
+          "revision": "823281fe9def21b384099b72a9a53ca988317b20",
+          "version": "0.1.4"
         }
       }
     ]

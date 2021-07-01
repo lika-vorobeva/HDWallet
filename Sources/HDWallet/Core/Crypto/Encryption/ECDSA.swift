@@ -7,8 +7,7 @@
 //
 
 import Foundation
-import secp256k1_implementation
-import secp256k1_bindings
+import secp256k1
 
 public final class ECDSA {
     public static let secp256k1 = ECDSA()

@@ -8,7 +8,7 @@
 
 import Foundation
 import CryptoSwift
-import secp256k1_implementation
+import secp256k1
 
 public struct PublicKey {
     public let compressedPublicKey: Data
